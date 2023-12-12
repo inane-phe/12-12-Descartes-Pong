@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\bin\Debug\Descartes.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\bin\Debug\Descartes.exe
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\bin\Debug\Descartes.pdb
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.exe
+c:\users\user\documents\visual studio 2013\Projects\Descartes\Descartes\obj\Debug\Descartes.pdb
